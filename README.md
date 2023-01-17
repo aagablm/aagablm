@@ -6,4 +6,4 @@
 📍  Rio do Sul, SC. <br>
 💻 Student of Information Systems <br>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=aagablm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
