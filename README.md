@@ -4,6 +4,7 @@
 
 📍  Rio do Sul, SC. <br>
 💻 Student of Information Systems <br>
+👩‍💻 QA at Vexta Systems
 
 ## Technologies
 
